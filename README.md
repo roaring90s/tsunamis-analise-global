@@ -37,7 +37,7 @@ Os gráficos e visualizações gerados a partir dessa análise estão disponíve
 Você pode também executar o notebook interativo no [Google Colab](https://colab.research.google.com/github/roaring90s/tsunamis-analise-global/blob/main/1_tsunami-world-analysis.ipynb).
 
 **Execute o notebook**:
-- Você pode executar o notebook diretamente no seu ambiente local ou no Google Colab, utilizando o link fornecido.
+- Você pode executar o notebook diretamente no seu ambiente local (desde que tenha as bibliotecas e a pasta do dataset) ou no Google Colab, utilizando o link fornecido.
 
   ---
 
