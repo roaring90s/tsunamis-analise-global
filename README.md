@@ -1,5 +1,3 @@
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roaring90s/tsunamis-analise-global/blob/main/1_tsunami-world-analysis.ipynb)
-
 # Análise Global de Tsunamis
 
 Este repositório contém um conjunto de dados sobre **tsunamis** registrados desde **1700** até os dias atuais (**2024**). O objetivo deste projeto é realizar uma análise exploratória e visualização dos dados para entender as características desses eventos ao longo do tempo e as consequências para diferentes países ao redor do mundo.
