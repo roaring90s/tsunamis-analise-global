@@ -36,6 +36,16 @@ Os gráficos e visualizações gerados a partir dessa análise estão disponíve
 
 Você pode também executar o notebook interativo no [Google Colab](https://colab.research.google.com/github/roaring90s/tsunamis-analise-global/blob/main/1_tsunami-world-analysis.ipynb).
 
+---
+
+### Exemplo de Gráfico: Países Mais Afetados
+
+![Países Mais Afetados](https://github.com/roaring90s/tsunamis-analise-global/blob/main/images/Top10-Paises-Afetados.jpg)
+
+Este gráfico mostra os 10 países com maior número de ocorrências de tsunamis ao longo dos últimos 300 anos.
+
+---
+
 **Execute o notebook**:
 - Você pode executar o notebook diretamente no seu ambiente local (desde que tenha as bibliotecas e a pasta do dataset) ou no Google Colab, utilizando o link fornecido.
 
